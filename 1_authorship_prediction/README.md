@@ -15,7 +15,7 @@
 * В дальнейшем, при хорошем разрежении будет обучен rnn алгоритм распознавания и будет реализованно добавление новых авторов в него.
 ## Стек технологий:
 
-beautifulsoup, requests, json
+requests, BeautifulSoup, re, numpy, torch, sklearn, PIL, matplotlib, seaborn, os, shutil, gdown, tqdm, pickle
 
 ## Статус проекта:
 
